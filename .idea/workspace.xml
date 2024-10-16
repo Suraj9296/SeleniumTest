@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fe99e64-ae4f-4031-844d-a983a58d2fbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Py4xLearningSeleniumPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/Kalaton_Verify_Title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/SeleniumIDE_Test_Kalaton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab02.py" afterDir="false" />
-    </list>
+    <list default="true" id="4fe99e64-ae4f-4031-844d-a983a58d2fbe" name="Changes" comment="16-10-2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729085261798</updated>
     </task>
+    <task id="LOCAL-00001" summary="16-10-2024">
+      <option name="closed" value="true" />
+      <created>1729094992488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729094992488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="16-10-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="16-10-2024" />
   </component>
 </project>
