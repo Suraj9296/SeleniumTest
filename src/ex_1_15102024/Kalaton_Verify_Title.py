@@ -20,5 +20,5 @@ def test_open_CURA_login():
     print("**----Starting To Verify PageSource----**")
     content =driver.page_source
     assert  "CURA Healthcare Service" in content
-    #print(content)
+    print(content)
     print("**----PageSource Verification Completed----**")
