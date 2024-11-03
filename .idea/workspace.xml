@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fe99e64-ae4f-4031-844d-a983a58d2fbe" name="Changes" comment="16-10-2024" />
+    <list default="true" id="4fe99e64-ae4f-4031-844d-a983a58d2fbe" name="Changes" comment="20-10-2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_AC1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_AC2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_AC3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_AC4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_AC5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_AC6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Task_26_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_task_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_task_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -20,6 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Suraj9296&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Suraj9296/SeleniumTest&quot;,
+    &quot;accountId&quot;: &quot;bd2bedee-15ba-4cc4-918e-1ca8d727392c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -31,17 +55,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in Kalaton_Verify_Title.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in SeleniumIDE_Test_Kalaton.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab01.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab02.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests in 19thOctTask1.py.executor": "Run",
+    "Python tests.Python tests in 19thOctTask2.py.executor": "Run",
+    "Python tests.Python tests in Kalaton_Verify_Title.py.executor": "Run",
+    "Python tests.Python tests in SeleniumIDE_Test_Kalaton.py.executor": "Run",
+    "Python tests.Python tests in Task_17th.py.executor": "Run",
+    "Python tests.Python tests in test_AC1.py.executor": "Run",
+    "Python tests.Python tests in test_AC2.py.executor": "Run",
+    "Python tests.Python tests in test_AC3.py.executor": "Run",
+    "Python tests.Python tests in test_AC4.py.executor": "Run",
+    "Python tests.Python tests in test_AC5.py.executor": "Run",
+    "Python tests.Python tests in test_AC6.py.executor": "Run",
+    "Python tests.Python tests in test_Lab01.py.executor": "Run",
+    "Python tests.Python tests in test_Lab02.py.executor": "Run",
+    "Python tests.Python tests in test_Lab03.py.executor": "Run",
+    "Python tests.Python tests in test_Task_26_1.py.executor": "Run",
+    "Python tests.Python tests in test_task_24.py.executor": "Run",
+    "Python tests.Python tests in test_task_26.py.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,11 +136,37 @@
       <option name="project" value="LOCAL" />
       <updated>1729096159022</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="16-10-2024">
+      <option name="closed" value="true" />
+      <created>1729096582250</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729096582250</updated>
+    </task>
+    <task id="LOCAL-00007" summary="17-10-2024">
+      <option name="closed" value="true" />
+      <created>1729177186680</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729177186680</updated>
+    </task>
+    <task id="LOCAL-00008" summary="20-10-2024">
+      <option name="closed" value="true" />
+      <created>1729432975666</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729432975666</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="16-10-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="16-10-2024" />
+    <MESSAGE value="17-10-2024" />
+    <MESSAGE value="20-10-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-10-2024" />
   </component>
 </project>
